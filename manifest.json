@@ -8,11 +8,11 @@
     "description": "Sample web app😀😀",
     "screenshots": [
         {
-            "src": "/images/screenshots/image.png",
+            "src": "/images/screenshots/image.PNG",
             "type": "image/png", "sizes":"393x704"
         },
         {
-            "src": "/images/screenshots/image1.png",
+            "src": "/images/screenshots/image1.PNG",
             "type": "image/png", "sizes":"392x760"
         }
     ],
