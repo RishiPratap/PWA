@@ -5,6 +5,17 @@
     "display": "standalone",
     "background_color": "#fdfdfd",
     "theme_color": "#db4938",
+    "description": "Sample web app😀😀",
+    "screenshots": [
+        {
+            "src": "/images/screenshots/image.png",
+            "type": "image/png", "sizes":"393x704"
+        },
+        {
+            "src": "/images/screenshots/image1.png",
+            "type": "image/png", "sizes":"392x760"
+        }
+    ],
     "orientation": "portrait-primary",
     "icons": [
       {
