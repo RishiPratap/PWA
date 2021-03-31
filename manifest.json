@@ -5,15 +5,16 @@
     "display": "standalone",
     "background_color": "#fdfdfd",
     "theme_color": "#db4938",
-    "description": "Sample web app😀😀",
+    "categories":["social","news","magazines"],
+    "description":"Get breaking news, politics, trending music, world events, sports scores and the latest global news stories as they unfold – all with less data.",
     "screenshots": [
         {
-            "src": "/images/screenshots/image.PNG",
-            "type": "image/png", "sizes":"393x704"
+            "src": "/images/screenshots/image.jpeg",
+            "type": "image/jpeg", "sizes":"720x1280"
         },
         {
-            "src": "/images/screenshots/image1.PNG",
-            "type": "image/png", "sizes":"392x760"
+            "src": "/images/screenshots/image1.jpeg",
+            "type": "image/jpeg", "sizes":"720x1226"
         }
     ],
     "orientation": "portrait-primary",
