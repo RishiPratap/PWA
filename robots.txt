@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://pwa-rishipratap.vercel.app/sitemap.xml
