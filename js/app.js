@@ -19,10 +19,7 @@ const showCoffees = () => {
                 <div class="card">
                   <img class="card--avatar" alt="img1" src=${image}/>
                   <h1 class="card--title">${name}</h1>
-                  <p>coffes</p>
-                  <p>-BY <i>rishi</i></p>
                   <a class="card--link" href="#">Taste</a>
-                  <i>22/4/2021</i>
                 </div>
                 `)
     )
