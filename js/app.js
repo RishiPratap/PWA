@@ -14,7 +14,7 @@ const coffees = [
 const showCoffees = () => {
     let output = ""
     coffees.forEach(
-      ({ name, image }) =>
+      ({ name, image, alt }) =>
         (output += `
                 <div class="card">
                   <img class="card--avatar" src=${image} alt=${alt} />
