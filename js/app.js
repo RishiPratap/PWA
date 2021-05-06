@@ -8,7 +8,7 @@ const coffees = [
   { name: " Vitae", image: "images/coffee6.jpg"},
   { name: "Inventore", image: "images/coffee7.jpg"},
   { name: "Veritatis", image: "images/coffee8.jpg"},
-  { name: "Accusantium", image: "images/coffee9.jpg"},
+  { name: "Accusantium", image: "images/coffee9.jpg"}
 ]
 
 const showCoffees = () => {
@@ -17,7 +17,7 @@ const showCoffees = () => {
       ({ name, image}) =>
         (output += `
                 <div class="card">
-                  <img class="card--avatar" src=${image} alt="image" />
+                  <img class="card--avatar" src=${image}/>
                   <h1 class="card--title">${name}</h1>
                   <a class="card--link" href="#">Taste</a>
                 </div>
