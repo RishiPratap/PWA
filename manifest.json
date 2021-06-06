@@ -20,9 +20,9 @@
     "orientation": "portrait-primary",
     "shortcuts": [
       {
-         "name": "Shortcut name to show in the menu",
-         "description": "A description of what the shortcut does",
-         "url": "Link to shortcut",
+         "name": "Show",
+         "description": "hover",
+         "url": "www.google.com",
          "icons": [
             {
                "src": "/images/icons/icon.png",
