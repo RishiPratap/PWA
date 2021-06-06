@@ -1,7 +1,8 @@
 {
     "name": "Dev'Coffee",
     "short_name": "DevCoffee",
-    "start_url": "index.html",
+    "scope":"/",
+    "start_url": "/?start_url",
     "display": "standalone",
     "background_color": "#fdfdfd",
     "theme_color": "#db4938",
@@ -23,7 +24,7 @@
          "name": "Show",
          "short_name": "show",
          "description": "View the list of podcasts you saved for later",
-         "url": "/second.html",
+         "url": "/second.html?shortcut",
          "icons": [
             {
                "src": "/images/icons/icon6.png",

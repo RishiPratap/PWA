@@ -22,7 +22,12 @@ self.addEventListener("install", installEvent => {
     })
   )
 })
+
 self.addEventListener("fetch", fetchEvent => {
+  if (e.request.url.endsWith("/?start_url")) {
+    e.respondWith(new Response("index.html"));
+    return;
+  }
     fetchEvent.respondWith(
       caches.match(fetchEvent.request).then(res => {
         return res || fetch(fetchEvent.request)
