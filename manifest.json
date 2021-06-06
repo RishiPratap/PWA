@@ -23,7 +23,7 @@
          "name": "Show",
          "short_name": "show",
          "description": "View the list of podcasts you saved for later",
-         "url": "/second?shortcut",
+         "url": "/second.html",
          "icons": [
             {
                "src": "/images/icons/icon6.png",
