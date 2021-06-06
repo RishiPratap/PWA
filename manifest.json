@@ -21,12 +21,11 @@
     "shortcuts": [
       {
          "name": "Show",
-         "description": "hover",
-         "url": "www.google.com",
+         "url": "index.html",
          "icons": [
             {
-               "src": "/images/icons/icon.png",
-               "sizes": "96x96",
+               "src": "/images/icons/icon3.png",
+               "sizes": "128x128",
                "type": "image/png",
                "purpose": "any"
             }
