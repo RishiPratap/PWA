@@ -18,6 +18,21 @@
         }
     ],
     "orientation": "portrait-primary",
+    "shortcuts": [
+      {
+         "name": "Shortcut name to show in the menu",
+         "description": "A description of what the shortcut does",
+         "url": "Link to shortcut",
+         "icons": [
+            {
+               "src": "/images/icons/icon.png",
+               "sizes": "16x16",
+               "type": "image/png",
+               "purpose": "any"
+            }
+         ]
+      }
+   ],
     "icons": [
       {
         "src": "/images/icons/icon1.png",
