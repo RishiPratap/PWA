@@ -21,13 +21,14 @@
     "shortcuts": [
       {
          "name": "Show",
+         "short_name": "show",
+         "description": "View the list of podcasts you saved for later",
          "url": "index.html",
          "icons": [
             {
-               "src": "/images/icons/icon3.png",
-               "sizes": "128x128",
-               "type": "image/png",
-               "purpose": "any"
+               "src": "/images/icons/icon4.png",
+               "sizes": "256x256",
+               "type": "image/png"
             }
          ]
       }
